@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37A52C51-E4FC-4C50-9F9F-0852A9702380}|Presentation\\Presentation.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\presentation\\controllers\\policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A52C51-E4FC-4C50-9F9F-0852A9702380}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\policiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\project_repositorys\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\project_repositorys\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F9F0B-EFD2-4761-823A-17365023FE4F}|Entities\\Entities.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\entities\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F9F0B-EFD2-4761-823A-17365023FE4F}|Entities\\Entities.csproj|solutionrelative:entities\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\contracts\\project_irepositorys\\ipolicyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\project_irepositorys\\ipolicyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\contracts\\project_irepositorys\\ipolicyreposityory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\project_irepositorys\\ipolicyreposityory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\contracts\\project_irepositorys\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\project_irepositorys\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\config\\usersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\usersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\config\\policyuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\policyuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\config\\policiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\config\\policiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\project_repositorys\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\project_repositorys\\transactionsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\services\\managers\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|solutionrelative:services\\managers\\transactionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\sigortaapp\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|solutionrelative:sigortaapp\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\sigortaapp\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|solutionrelative:sigortaapp\\contextfactory\\repositorycontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\services\\managers\\policyusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|solutionrelative:services\\managers\\policyusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\services\\contracts\\itransactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|solutionrelative:services\\contracts\\itransactionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\project_repositorys\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\project_repositorys\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\repositories\\efcore\\project_repositorys\\policyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3880F04C-516B-4F23-94B3-A6807165DF8B}|Repositories\\Repositories.csproj|solutionrelative:repositories\\efcore\\project_repositorys\\policyuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\services\\managers\\usersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|solutionrelative:services\\managers\\usersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DAD69A-FB8A-4B0A-8F09-F2EDF87D119E}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\sigortaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|solutionrelative:sigortaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\sigortaapp\\sigortaapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|solutionrelative:sigortaapp\\sigortaapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|c:\\users\\talha\\desktop\\specialtopic\\sigortaapp\\sigortaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA835CC3-EF24-4838-A164-718BEBB867B8}|SigortaApp\\SigortaApp.csproj|solutionrelative:sigortaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Project_Repositorys\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\UsersRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Project_Repositorys\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:57:17.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Entities\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Entities\\Models\\Transactions.cs",
+              "RelativeToolTip": "Entities\\Models\\Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:57:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:47:24.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPolicyReposityory.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IPolicyReposityory.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\Project_IRepositorys\\IPolicyReposityory.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IPolicyReposityory.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\Project_IRepositorys\\IPolicyReposityory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:42:56.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPolicyUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IPolicyUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\Project_IRepositorys\\IPolicyUserRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IPolicyUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\Project_IRepositorys\\IPolicyUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:45:28.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:44:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\RepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\Project_IRepositorys\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\Contracts\\Project_IRepositorys\\IUsersRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\Project_IRepositorys\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoliciesController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Presentation\\Controllers\\PoliciesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\PoliciesController.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Presentation\\Controllers\\PoliciesController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\PoliciesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:42:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersConfig.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\UsersConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\UsersConfig.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\UsersConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\UsersConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PolicyUserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\PolicyUserConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\PolicyUserConfig.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\PolicyUserConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\PolicyUserConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\TransactionsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Project_Repositorys\\TransactionsRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\TransactionsRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Project_Repositorys\\TransactionsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:42.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionsManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\TransactionsManager.cs",
+              "RelativeDocumentMoniker": "Services\\Managers\\TransactionsManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\TransactionsManager.cs",
+              "RelativeToolTip": "Services\\Managers\\TransactionsManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:34.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepositoryContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeDocumentMoniker": "SigortaApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "RelativeToolTip": "SigortaApp\\ContextFactory\\RepositoryContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:22.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PolicyUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\PolicyUserManager.cs",
+              "RelativeDocumentMoniker": "Services\\Managers\\PolicyUserManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\PolicyUserManager.cs",
+              "RelativeToolTip": "Services\\Managers\\PolicyUserManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:14.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITransactionsService.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Contracts\\ITransactionsService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ITransactionsService.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Contracts\\ITransactionsService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ITransactionsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:56:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PoliciesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\PoliciesConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Config\\PoliciesConfig.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Config\\PoliciesConfig.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Config\\PoliciesConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:45:23.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PolicyUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\PolicyUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Project_Repositorys\\PolicyUserRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\PolicyUserRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Project_Repositorys\\PolicyUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:46:27.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\PolicyRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EFCore\\Project_Repositorys\\PolicyRepository.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Repositories\\EFCore\\Project_Repositorys\\PolicyRepository.cs",
+              "RelativeToolTip": "Repositories\\EFCore\\Project_Repositorys\\PolicyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:46:26.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "SigortaApp\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "SigortaApp\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:43:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:45:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsersManager.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\UsersManager.cs",
+              "RelativeDocumentMoniker": "Services\\Managers\\UsersManager.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\Services\\Managers\\UsersManager.cs",
+              "RelativeToolTip": "Services\\Managers\\UsersManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:45:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SigortaApp.http",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\SigortaApp.http",
+              "RelativeDocumentMoniker": "SigortaApp\\SigortaApp.http",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\SigortaApp.http",
+              "RelativeToolTip": "SigortaApp\\SigortaApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-09T20:20:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\Program.cs",
+              "RelativeDocumentMoniker": "SigortaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\Program.cs",
+              "RelativeToolTip": "SigortaApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:09:22.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SigortaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\talha\\Desktop\\SpecialTopic\\SigortaApp\\SigortaApp\\appsettings.json",
+              "RelativeToolTip": "SigortaApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T20:05:32.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

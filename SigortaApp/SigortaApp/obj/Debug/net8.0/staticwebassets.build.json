@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "64gdABmv45yVe66XDrxxVxFHer50VdzFmkMBI8vWIfg=",
+  "Source": "SigortaApp",
+  "BasePath": "_content/SigortaApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
