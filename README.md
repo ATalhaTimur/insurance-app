@@ -8,8 +8,9 @@ SigortaApp is an application that allows users to manage insurance policies. Thi
 - [Architecture](#architecture)
 - [Layer Relationships](#layer-relationships)
 - [General Design](#general-design)
+- [Layers](#layers)
 - [Contributing](#contributing)
-
+- [License](#license)
 
 ## Installation
 
@@ -20,7 +21,7 @@ SigortaApp is an application that allows users to manage insurance policies. Thi
 ### Steps
 1. Clone this repository:
     ```bash
-    git clone https://github.com/username/SigortaApp.git
+    git clone https://github.com/ATalhaTimur/insurance-app.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -58,21 +59,21 @@ This project adopts a layered architecture. The main layers are:
 
 ## Layer Relationships
 
-![Dotnet1 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/19def7e6-cc27-4b2b-802c-ae6a865003a5)
+![Dotnet1 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/233717a5-548c-4e84-abbd-9e6a2d75c6a7)
 
 
 The diagram above shows the relationships between the layers. The `Services` layer depends on the `Repositories` and `Contracts` layers. The `Entities` layer contains the data models used by other layers.
 
 ## General Design
 
-![Dotnet2 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/aef1f485-97a3-42ac-9edc-8348819d11f7)
+![Dotnet2 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/31d6ba09-8c54-4a04-a43b-4a9b37f66c11)
+
 
 This diagram shows the general design of the project. `PolicyManager`, `PolicyUserManager`, `TransactionsManager`, and `UsersManager` classes interact with the `Repositories` and `Contracts` layers.
 
 ## Layers
 
-![Dotnet3 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/0bc552cd-e0cb-41fe-8fdf-3dc9a4f8d976)
-
+![Dotnet3 drawio](https://github.com/ATalhaTimur/insurance-app/assets/93510585/95f7e9d2-be7f-4657-b4d8-4f323342d111)
 
 This diagram shows the relationship between each manager and its corresponding service interface.
 
@@ -86,4 +87,6 @@ If you want to contribute, please open an issue first. For major changes, please
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## License
 
+This project is licensed under the MIT License - see the `LICENSE` file for details.
