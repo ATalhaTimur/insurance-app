@@ -9,7 +9,7 @@ SigortaApp is an application that allows users to manage insurance policies. Thi
 - [Layer Relationships](#layer-relationships)
 - [General Design](#general-design)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
